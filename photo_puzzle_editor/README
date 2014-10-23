@@ -1,1 +1,23 @@
 README
+
+ImageAdjuster and Puzzle
+
+There are three tools.
+Run PixelInspector.java : type your link in readFromURL, there already
+one there for testing. Click anywhere, then print out the RGB of that
+pixel
+
+Run ImageAdjuster.java : same as inspector, tap your link, then you can
+make chose of what to change on image, including blur, saturation and
+brightness change. But it’s a little bit slow or sometime need like 10s
+to finish
+
+The most interesting part, Run FramePuzzle : type your link, the photo
+in there are my CS pro kmp(really good man), then click a block which
+is next to empty block or the block on the same line of the empty block
+
+
+
+----->there are some problems. 
+first the frozen of imageAdjuster
+second can't change the image in puzzle and the random the small block
