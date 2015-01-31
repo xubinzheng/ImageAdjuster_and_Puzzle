@@ -11,11 +11,11 @@ This a Image Ajuster and a small Puzzle game
 
 
 
-1.Add a slider to the paint brush user interface to control the brush factor from 1 to 5.
+1.Add a slider to the user interface to control the brush factor from 1 to 5.
 
-2.Add a slider to the paint brush user interface to control the size of the Saturation of image from -100 to 100.
+2.Add a slider to the user interface to control the size of the Saturation of image from -100 to 100.
 
-3.Add a slider to the paint brush user interface to control the size of the bBrightness of image from -100 to 100.
+3.Add a slider to the user interface to control the size of the bBrightness of image from -100 to 100.
 
 The puzzle: click the block and have fun
 
