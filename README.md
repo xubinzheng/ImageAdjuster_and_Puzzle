@@ -17,7 +17,7 @@ This a Image Ajuster and a small Puzzle game
 
 3.Add a slider to the user interface to control the size of the bBrightness of image from -100 to 100.
 
-The puzzle: click the block and have fun
+The puzzle: click the block and have fun.
 
 
 
